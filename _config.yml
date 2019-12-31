@@ -81,7 +81,7 @@ url-pretty: "kushalchawla.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "kushalchawla-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-121781547-1"
+google_analytics: "UA-155191404-1"
 
 # Google Tag Manager ID
 #gtm: ""
