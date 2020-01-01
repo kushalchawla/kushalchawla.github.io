@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Co-Authored Patents
+title: Co-authored Patents
 ---
 
 - **Forecasting Potential Audience Size and Unduplicated Audience Size** <br/>US Patent Application No. 15/435,869 <br/>
