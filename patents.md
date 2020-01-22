@@ -16,8 +16,8 @@ Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/9a/dc
 Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/bd/51/50/88bb7df0b7cb20/US20190311035A1.pdf" target="_blank">Document</a>
 <br />
 
-- **Content Optimization for Audiences** <br/>US Patent Application No. 16/024,131<br/>
-Status: FILED
+- **Content Optimization for Audiences** <br/>US Patent Publication No. US 2020/0004820 A1<br/>
+Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/00/64/bd/329ed4df9df431/US20200004820A1.pdf" target="_blank">Document</a>
 <br />
 
 - **Detecting Affective Characteristics Of Text With Gated Convolutional Encoder-Decoder Framework** <br/>US Patent Application No. 16/224,501<br/>
