@@ -3,6 +3,10 @@ layout: page
 title: Co-authored Patents
 ---
 
+- **Detecting Affective Characteristics Of Text With Gated Convolutional Encoder-Decoder Framework** <br/>US Patent Publication No. US 2020/0192927 A1<br/>
+Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/ad/af/d1/a90c96fedcfb01/US20200192927A1.pdf" target="_blank">Document</a>
+<br />
+
 - **Forecasting Potential Audience Size and Unduplicated Audience Size** <br/>US Patent Publication No. US 2018/0240149 A1<br/>
 Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/2e/c4/58/dd997e2ae1a599/US20180240149A1.pdf" target="_blank">Document</a>
 <br />
@@ -18,10 +22,6 @@ Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/bd/51
 
 - **Content Optimization for Audiences** <br/>US Patent Publication No. US 2020/0004820 A1<br/>
 Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/00/64/bd/329ed4df9df431/US20200004820A1.pdf" target="_blank">Document</a>
-<br />
-
-- **Detecting Affective Characteristics Of Text With Gated Convolutional Encoder-Decoder Framework** <br/>US Patent Application No. 16/224,501<br/>
-Status: FILED
 <br />
 
 - **Generating Summary Content Tuned To a Target Characteristic Using a Word Generation Model** <br/>US Patent Application No. 16/262,655<br/>

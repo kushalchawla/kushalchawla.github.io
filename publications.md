@@ -1,7 +1,13 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 ---
+
+- **Session-Based Path Prediction by Combining Local and Global Content Preferences**  
+	**Kushal Chawla**, Niyati Chhaya.  
+	European Conference on Information Retrieval. Springer, Cham, 2020. <br/>
+	<a href="https://link.springer.com/chapter/10.1007/978-3-030-45442-5_16" target="_blank">Paper</a> <a href="https://www.youtube.com/watch?v=h26vzMeNANU&feature=youtu.be" target="_blank">Presentation</a>
+<br />
 
 - **Generating Formality-Tuned Summaries Using Input-Dependent Rewards**  
 	**Kushal Chawla**, Balaji Vasan Srinivasan, Niyati Chhaya.  
