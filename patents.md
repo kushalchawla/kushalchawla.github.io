@@ -30,7 +30,6 @@ Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/9a/dc
 - **Forecasting Potential Audience Size and Unduplicated Audience Size** <br/>US Patent Publication No. 2018/0240149 A1<br/>
 Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/2e/c4/58/dd997e2ae1a599/US20180240149A1.pdf" target="_blank">Document</a>
 <br />
-<br />
 
 - **Web Experience Augmentation Based on Local and Global Content Preferences** <br/>US Patent Application No. 16/570,910<br/>
 Status: FILED
