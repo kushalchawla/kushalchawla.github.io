@@ -3,6 +3,10 @@ layout: page
 title: Co-authored Patents
 ---
 
+- **Affect-enriched Vector Representation of Words for use in Machine-Learning Models** <br/>US Patent Publication No. 2020/0364301 A1<br/>
+Status: PUBLISHED<a href="https://patentimages.storage.googleapis.com/9c/51/ce/e9a6618b3f8442/US20200364301A1.pdf" target="_blank">Document</a>
+<br />
+
 - **Machine Learning Techniques for Generating Document Summaries Targeted to Affective Tone** <br/>US Patent Publication No. 2020/0257757 A1<br/>
 Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/d1/9d/68/28065f5e4cdd36/US20200257757A1.pdf" target="_blank">Document</a>
 <br />
@@ -32,10 +36,6 @@ Status: PUBLISHED<br/><a href="https://patentimages.storage.googleapis.com/2e/c4
 <br />
 
 - **Web Experience Augmentation Based on Local and Global Content Preferences** <br/>US Patent Application No. 16/570,910<br/>
-Status: FILED
-<br />
-
-- **Affect-enriched Vector Representation of Words for use in Machine-Learning Models** <br/>US Patent Application No. 16/412,868<br/>
 Status: FILED
 <br />
 
