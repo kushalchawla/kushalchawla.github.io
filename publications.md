@@ -3,6 +3,12 @@ layout: page
 title: Selected Publications
 ---
 
+- **Towards Emotion-Aware Agents For Negotiation Dialogues**  
+	**Kushal Chawla**, Rene Clever, Jaysa Ramirez, Gale Lucas, Jonathan Gratch<br/>
+	ACII 2021 <br/>
+	<a href="https://arxiv.org/pdf/2107.13165.pdf" target="_blank">Paper</a>
+<br />
+
 - **CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems**  
 	**Kushal Chawla**, Jaysa Ramirez, Rene Clever, Gale Lucas, Jonathan May, Jonathan Gratch<br/>
 	NAACL 2021 <br/>
