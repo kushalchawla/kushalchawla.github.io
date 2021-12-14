@@ -3,6 +3,10 @@ layout: page
 title: Co-authored Patents
 ---
 
+- **Predicting joint intent-slot structure** <br/>US Patent Publication No. 2021/0264111 A1<br/>
+<a href="https://patentimages.storage.googleapis.com/ce/eb/86/bb19a94fe7cfc8/US20210264111A1.pdf" target="_blank">Document</a>
+<br />
+
 - **Web Experience Augmentation Based on Local and Global Content Preferences** <br/>US Patent Publication No. 2021/0081467 A1<br/>
 <a href="https://patentimages.storage.googleapis.com/6f/eb/c0/3921cd076d35ef/US20210081467A1.pdf" target="_blank">Document</a>
 <br />
