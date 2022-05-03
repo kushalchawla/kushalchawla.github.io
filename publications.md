@@ -3,6 +3,12 @@ layout: page
 title: Selected Publications
 ---
 
+- **Opponent Modeling in Negotiation Dialogues by Related Data Adaptation**  
+	**Kushal Chawla**, Gale Lucas, Jonathan May, Jonathan Gratch<br/>
+	Findings of NAACL 2022 <br/>
+	<a href="https://arxiv.org/pdf/2205.00344.pdf" target="_blank">Paper</a> <a href="https://github.com/kushalchawla/opponent-modeling" target="_blank">Code</a>
+<br />
+
 - **Towards Emotion-Aware Agents For Negotiation Dialogues**  
 	**Kushal Chawla**, Rene Clever, Jaysa Ramirez, Gale Lucas, Jonathan Gratch<br/>
 	ACII 2021 <br/>
