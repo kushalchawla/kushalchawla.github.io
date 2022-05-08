@@ -13,7 +13,7 @@ title: Selected Publications
 	
 	Abstract: Opponent modeling is the task of inferring another party's mental state within the context of social interactions. In a multi-issue negotiation, it involves inferring the relative importance that the opponent assigns to each issue under discussion, which is crucial for finding high-value deals. A practical model for this task needs to infer these priorities of the opponent on the fly based on partial dialogues as input, without needing additional annotations for training. In this work, we propose a ranker for identifying these priorities from negotiation dialogues. The model takes in a partial dialogue as input and predicts the priority order of the opponent. We further devise ways to adapt related data sources for this task to provide more explicit supervision for incorporating the opponent's preferences and offers, as a proxy to relying on granular utterance-level annotations. We show the utility of our proposed approach through extensive experiments based on two dialogue datasets. We find that the proposed data adaptations lead to strong performance in zero-shot and few-shot scenarios. Moreover, they allow the model to perform better than baselines while accessing fewer utterances from the opponent. We release our code to support future work in this direction.</p>
 	
-	<img src="static/img/opp_modeling.jpg" alt='no image found' style='width:50%;height:auto'>
+	<img src="/static/img/opp_modeling.jpg" alt='no image found' style='width:50%;height:auto'>
 <br />
 
 - **Towards Emotion-Aware Agents For Negotiation Dialogues**  
