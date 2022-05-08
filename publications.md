@@ -17,8 +17,6 @@ title: Selected Publications
 	Useful Links: <a href="https://arxiv.org/pdf/2107.13165.pdf" target="_blank">Paper</a><br/>
 	Abstract: Negotiation is a complex social interaction that encapsulates emotional encounters in human decision-making. Virtual agents that can negotiate with humans are useful in pedagogy and conversational AI. To advance the development of such agents, we explore the prediction of two important subjective goals in a negotiation - outcome satisfaction and partner perception. Specifically, we analyze the extent to which emotion attributes extracted from the negotiation help in the prediction, above and beyond the individual difference variables. We focus on a recent dataset in chat-based negotiations, grounded in a realistic camping scenario. We study three degrees of emotion dimensions - emoticons, lexical, and contextual by leveraging affective lexicons and a state-of-the-art deep learning architecture. Our insights will be helpful in designing adaptive negotiation agents that interact through realistic communication interfaces.
 	
-	<br />
-	
 - Title: **CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems**  
 	Authors: Kushal Chawla, Jaysa Ramirez, Rene Clever, Gale Lucas, Jonathan May, Jonathan Gratch <br/>
 	Publication Venue: NAACL 2021 <br/>
