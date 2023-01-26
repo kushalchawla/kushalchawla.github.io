@@ -3,6 +3,14 @@ layout: page
 title: Selected Publications
 ---
 
+- **Social Influence Dialogue Systems: A Survey of Datasets and Models For Social Influence Tasks**  
+	**Kushal Chawla, Weiyan Shi, Jingwen Zhang, Gale Lucas, Zhou Yu, Jonathan Gratch** <br/>
+	<i>**EACL 2023**</i> <br/>
+	**<a href="https://arxiv.org/pdf/2210.05664.pdf" target="_blank">Paper</a>** <br/>
+	Dialogue systems capable of social influence such as persuasion, negotiation, and therapy, are essential for extending the use of technology to numerous realistic scenarios. However, existing research primarily focuses on either task-oriented or open-domain scenarios, a categorization that has been inadequate for capturing influence skills systematically. There exists no formal definition or category for dialogue systems with these skills and data-driven efforts in this direction are highly limited. In this work, we formally define and introduce the category of social influence dialogue systems that influence users' cognitive and emotional responses, leading to changes in thoughts, opinions, and behaviors through natural conversations. We present a survey of various tasks, datasets, and methods, compiling the progress across seven diverse domains. We discuss the commonalities and differences between the examined systems, identify limitations, and recommend future directions. This study serves as a comprehensive reference for social influence dialogue systems to inspire more dedicated research and discussion in this emerging area.
+	
+	<img src="/static/img/survey_diag.png" alt='no image found' style='width:100%;height:auto'><br />
+
 - **Opponent Modeling in Negotiation Dialogues by Related Data Adaptation**  
 	**Kushal Chawla, Gale Lucas, Jonathan May, Jonathan Gratch** <br/>
 	<i>**Findings of NAACL 2022**</i> <br/>
