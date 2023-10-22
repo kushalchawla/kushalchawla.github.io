@@ -3,10 +3,18 @@ layout: page
 title: Selected Publications
 ---
 
+- **Be Selfish, But Wisely: Investigating the Impact of Agent Personality in Mixed-Motive Human-Agent Interactions**  
+	**Kushal Chawla, Ian Wu, Yu Rong, Gale M. Lucas, Jonathan Gratch** <br/>
+	<i>**EMNLP 2023**</i> <br/>
+	**Preprint Available Soon** <br/>
+	A natural way to design a negotiation dialogue system is via self-play RL: train an agent that learns to maximize its performance by interacting with a simulated user that has been designed to imitate human-human dialogue data. Although this procedure has been adopted in prior work, we find that it results in a fundamentally flawed system that fails to learn the value of compromise in a negotiation, which can often lead to no agreements (i.e., the partner walking away without a deal), ultimately hurting the model’s overall performance. We investigate this observation in the context of DealOrNoDeal task, a multi-issue negotiation over books, hats, and balls. Grounded in negotiation theory from Economics, we modify the training procedure in two novel ways to design agents with diverse personalities and analyze their performance with human partners. We find that although both techniques show promise, a selfish agent, which maximizes its own performance while also avoiding walkaways, performs superior to other variants by implicitly learning to generate value for both itself and the negotiation partner. We discuss the implications of our findings for what it means to be a successful negotiation dialogue system and how these systems should be designed in the future.
+	
+	<img src="/static/img/selfish_emnlp23.png" alt='no image found' style='width:60%;height:auto'><br />
+
 - **Social Influence Dialogue Systems: A Survey of Datasets and Models For Social Influence Tasks**  
 	**Kushal Chawla, Weiyan Shi, Jingwen Zhang, Gale Lucas, Zhou Yu, Jonathan Gratch** <br/>
 	<i>**EACL 2023**</i> <br/>
-	**<a href="https://arxiv.org/pdf/2210.05664.pdf" target="_blank">Paper</a>** <br/>
+	**<a href="https://aclanthology.org/2023.eacl-main.53.pdf" target="_blank">Paper</a>** <br/>
 	Dialogue systems capable of social influence such as persuasion, negotiation, and therapy, are essential for extending the use of technology to numerous realistic scenarios. However, existing research primarily focuses on either task-oriented or open-domain scenarios, a categorization that has been inadequate for capturing influence skills systematically. There exists no formal definition or category for dialogue systems with these skills and data-driven efforts in this direction are highly limited. In this work, we formally define and introduce the category of social influence dialogue systems that influence users' cognitive and emotional responses, leading to changes in thoughts, opinions, and behaviors through natural conversations. We present a survey of various tasks, datasets, and methods, compiling the progress across seven diverse domains. We discuss the commonalities and differences between the examined systems, identify limitations, and recommend future directions. This study serves as a comprehensive reference for social influence dialogue systems to inspire more dedicated research and discussion in this emerging area.
 	
 	<img src="/static/img/survey_diag.png" alt='no image found' style='width:60%;height:auto'><br />
